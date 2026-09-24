@@ -13,17 +13,9 @@ I enjoy building practical software and understanding what happens beyond the UI
 
 ## Featured projects
 
-### [NutriTracker](https://github.com/dcoronil/nutri-tracker)
-
-Full-stack nutrition application with FastAPI, SQLModel, PostgreSQL, Alembic and an Expo mobile client. It includes automated backend tests, Ruff checks, TypeScript validation and GitHub Actions with PostgreSQL migration validation.
-
-### [Lab3](https://github.com/dcoronil/Lab3)
-
-Django REST billing API with JWT authentication, PostgreSQL, Docker and automated tests. This is an academic project that I continue to improve, so its operational hardening is still evolving.
-
-### [Web System Development](https://github.com/dcoronil/web-system-development)
-
-A public web development project from my coursework.
+- [NutriTracker](https://github.com/dcoronil/nutri-tracker) — FastAPI, PostgreSQL, Alembic and Expo with automated CI.
+- [django-billing-api](https://github.com/dcoronil/django-billing-api) — Django REST billing API with JWT, PostgreSQL and Docker.
+- [web-development-coursework](https://github.com/dcoronil/web-development-coursework) — coursework with a React/Express task management project.
 
 ## Tech
 
