@@ -1,31 +1,25 @@
-# Hi, I'm Daniel 👋
+# Daniel Coronil
 
-I'm a Software Engineering student based in Seville, Spain, interested in backend engineering, reliability and AI-enabled systems.
+Software Engineering student based in Seville, Spain, focused on backend engineering, reliability and AI-enabled systems.
 
 I enjoy building practical software and understanding what happens beyond the UI: APIs, databases, testing, containers, CI/CD and system reliability.
 
-## What I'm working on
-
-- Building backend applications with Python and FastAPI/Django.
-- Improving testing, CI/CD, secure configuration and reproducibility.
-- Learning Site Reliability Engineering, observability and distributed systems.
-- Strengthening algorithms and data structures.
-
 ## Featured projects
 
-- [NutriTracker](https://github.com/dcoronil/nutri-tracker) — FastAPI, PostgreSQL, Alembic and Expo with automated CI.
-- [django-billing-api](https://github.com/dcoronil/django-billing-api) — Django REST billing API with JWT, PostgreSQL and Docker.
-- [web-development-coursework](https://github.com/dcoronil/web-development-coursework) — coursework with a React/Express task management project.
+- **[NutriTracker](https://github.com/dcoronil/nutri-tracker)** — Full-stack nutrition application built with FastAPI, PostgreSQL, Alembic and Expo, with automated testing and CI validation against PostgreSQL.
+- **[Django Billing API](https://github.com/dcoronil/django-billing-api)** — Django REST API with JWT authentication, provider-scoped authorization, PostgreSQL, Docker and transaction-safe billing.
+- **[Web Development Coursework](https://github.com/dcoronil/web-development-coursework)** — Web development coursework including a React/Express task management application.
 
-## Tech
+## Technical focus
 
 Python · FastAPI · Django · PostgreSQL · Docker · Linux · Git · TypeScript · React
 
 ## Currently learning
 
-- Site Reliability Engineering
-- Observability
-- Distributed systems
-- Algorithms and data structures
+Site Reliability Engineering · Observability · Distributed Systems · Algorithms & Data Structures
 
-I'm interested in software engineering internship opportunities where I can learn from strong engineering teams and contribute carefully.
+I'm interested in software engineering internship opportunities where I can learn from strong engineering teams and contribute to reliable, well-tested systems.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/daniel-coronil-garcia/)
